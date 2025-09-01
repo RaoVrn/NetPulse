@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+reportlab  # For PDF reporting
+folium     # (optional) for mapping if GPS data is available
